@@ -1,0 +1,25 @@
+/*
+    GLOBAL
+*/
+body{
+    background-color: #fff;
+    width: 100vw;
+    height:100vh;
+    margin:0;
+}
+
+header{
+    background-color: #b58484;
+    width: 100vw;
+    height: 10vh;
+}
+main{
+    width: 100vw;
+    height: 80vh;
+}
+
+footer{
+    width: 100vw;
+    background-color: yellow;
+    height: 10vh;
+}
